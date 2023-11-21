@@ -1,0 +1,9 @@
+{
+	"id": "wrglnLt0tSkzg89",
+	"json": "{\"id\":\"wrglnLt0tSkzg89\",\"url\":\"https://www.veracode.com/sitemap.xml\",\"loadedUrl\":\"https://www.veracode.com/sitemap.xml\",\"uniqueKey\":\"https://www.veracode.com/sitemap.xml\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-11-21T05:54:34.071Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.veracode.com/sitemap.xml",
+	"url": "https://www.veracode.com/sitemap.xml"
+}
